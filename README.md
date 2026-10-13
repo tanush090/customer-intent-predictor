@@ -15,6 +15,15 @@
 
 ## 🚀 Project Overview
 
+
+## 🌐 Live Demo
+
+🚀 **Try the application:** [Customer Support Intent Predictor](https://customer-intent-predictor.streamlit.app/)
+
+💻 **Source Code:** [View on GitHub](https://github.com/tanush090/customer-intent-predictor)
+
+[Enter a customer support message to see the model's predicted intent.]
+
 The **Customer Support Intent Predictor** is a machine learning application that identifies the intent behind a customer's message using Natural Language Processing (NLP).
 
 The project uses **TF-IDF Vectorization** to transform text into numerical features and **Logistic Regression** to classify customer support messages into intent categories.
