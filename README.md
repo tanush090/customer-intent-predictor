@@ -18,7 +18,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **Try the application:** [DocuSense — PDF Document Classifier](https://classidoc.streamlit.app/)
+🚀 **Try the application:** [DocuSense — PDF Document Classifier](https://docusense-ai-classifier.streamlit.app/)
 
 💻 **Source Code:** [View on GitHub](https://github.com/tanush090/DocuSense-AI-Classifier)
 
@@ -107,7 +107,7 @@ This project uses a synthetic dataset named:
 
 `synthetic_indian_bill_invoice_receipt_3000.csv`
 
-The dataset contains **3,000 synthetic records**, with 1,000 records per category:
+The dataset contains **3,000 records**, with 1,000 records per category:
 
 - Bill
 - Invoice
