@@ -84,7 +84,7 @@ The saved pipeline includes both the TF-IDF vectorizer and Logistic Regression c
 
 This project uses the **Bitext Sample Customer Service Dataset** from Kaggle.
 
-🔗 **Dataset Link:** [Training Dataset for Chatbots and Virtual Assistants](https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants)
+🔗 **Dataset Link:** [Training Dataset for Chatbots and Virtual Assistants](https://www.kaggle.com/datasets/scodepy/customer-support-intent-dataset)
 
 The dataset contains customer-service utterances associated with intent labels.
 
