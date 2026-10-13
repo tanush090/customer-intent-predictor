@@ -1,4 +1,3 @@
-
 \<p align="center">\
 &#x20; \<b>An NLP-powered Machine Learning Application for Customer Intent Classification\</b>\
 \</p>\
